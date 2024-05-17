@@ -2,6 +2,8 @@
 
 The primary objective of the dashboard is to understand the nutritional values of different cereals.
 
+Tools used: Microsoft Excel, Microsoft Power BI
+
 𝐒𝐭𝐞𝐩𝐬 𝐈𝐧𝐜𝐥𝐮𝐝𝐞𝐬:
 1. Data Cleaning
 2. Data Processing
